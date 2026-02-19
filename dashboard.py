@@ -4,12 +4,12 @@ Ted's Operations Dashboard
 Analyzes appointment, revenue, and peak-hour data across multiple branches.
 Built with Python + pandas + matplotlib.
 
-Author: [Your Name]
+Author: [Osman Ural]
 Purpose: Portfolio project demonstrating real-world data automation skills
 """
 
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt                
 import matplotlib.gridspec as gridspec
 import os
 from datetime import datetime
