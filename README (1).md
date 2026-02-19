@@ -93,4 +93,4 @@ All data in `/data/sample_data.csv` is anonymized and synthetic. Branch names an
 
 ---
 
-*Built by [Your Name] | AWS DevOps learner | London, UK*
+*Built by Osman Ural | AWS DevOps learner | London, UK*
